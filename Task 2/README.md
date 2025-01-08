@@ -14,6 +14,7 @@ This repository implements a simple Linear Regression model using Python to pred
 
 **Dataset**
 https://www.kaggle.com/datasets/saquib7hussain/experience-salary-dataset
+
 **Instructions:**
 
 1. Clone this repository or download the contents.
