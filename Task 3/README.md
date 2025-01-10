@@ -22,7 +22,7 @@ This project uses the IMDB Movie Review Dataset (or specify the dataset you use)
 
 **Dataset**
 
-IDBM Dataset from Kaggle
+IMDB Dataset from Kaggle
 
 
 **Implementation:**
