@@ -10,15 +10,6 @@ To build a model that accurately classifies movie reviews based on their textual
 
 This project uses the IMDB Movie Review Dataset (or specify the dataset you use). You can obtain this dataset from various sources (e.g., TensorFlow Datasets, Kaggle). If using a different dataset, please update this README accordingly.
 
-**Requirements:**
-
-*   Python 3.x
-*   Required libraries:
-    *   pandas
-    *   scikit-learn
-    *   NLTK (optional, for advanced text preprocessing)
-    *   TensorFlow/Keras or PyTorch (if using deep learning models)
-
 
 **Dataset**
 
